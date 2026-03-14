@@ -139,7 +139,7 @@ Shows how ticket fares were distributed among passengers.
 
 Displays relationships between numerical variables in the dataset.
 
-![Correlation Heatmap](images/7.png)
+![Correlation Heatmap](images/plot7.png)
 
 ---
 
